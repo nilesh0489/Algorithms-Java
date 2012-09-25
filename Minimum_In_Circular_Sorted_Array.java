@@ -1,4 +1,3 @@
-package sample.questions;
 
 /*
  * Time Complexity: O(log n)
